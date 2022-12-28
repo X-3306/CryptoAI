@@ -24,5 +24,4 @@ python3 CryptoAI.py
 - Optimize the model training process
 - I will take into account add more data into the model to improve the accuracy of the model.
 - Im gonna Implement more advanced trading strategies
-= I Expand the range of cryptocurrencies that the program can trade
-- 
+- I Expand the range of cryptocurrencies that the program can trade 
