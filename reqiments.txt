@@ -1,0 +1,6 @@
+requests
+numpy
+sklearn
+PyQt5
+matplotlib
+time
