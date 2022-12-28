@@ -18,3 +18,11 @@ user input and responds to events such as button clicks.
 pip install -r requirements.txt
 python3 CryptoAI.py
 
+
+# planned new options in the update:
+- create C# panel for better and easier using
+- Optimize the model training process
+- I will take into account add more data into the model to improve the accuracy of the model.
+- Im gonna Implement more advanced trading strategies
+= I Expand the range of cryptocurrencies that the program can trade
+- 
